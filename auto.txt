@@ -1,0 +1,6 @@
+1.java
+2.selenium
+3.manual testing
+4.automation testing
+5.sql
+6.api testing
